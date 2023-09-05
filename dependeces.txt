@@ -1,0 +1,8 @@
+- atualiza o node
+- npm update -g npm
+- npm run web
+- npm install react-native-web react-dom @expo/webpack-config
+
+#extras
+- npm outdate
+- 
